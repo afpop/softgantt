@@ -1,6 +1,9 @@
 {
   "name": "softgantt",
-  "main": "softgantt.js",
+  "main": [
+    "softgantt.js",
+    "softgantt.css"
+  ],
   "homepage": "https://github.com/afpop/softgantt",
   "authors": [
     "Joao Oliveira"
