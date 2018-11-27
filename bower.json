@@ -1,0 +1,21 @@
+{
+  "name": "softgantt",
+  "main": "softgantt.js",
+  "homepage": "https://github.com/afpop/softgantt",
+  "authors": [
+    "Joao Oliveira"
+  ],
+  "description": "gantt plugin for AngularJS",
+  "keywords": [
+    "soft",
+    "gantt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
